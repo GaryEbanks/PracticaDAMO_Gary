@@ -2,3 +2,8 @@ Hola Mundo!
 Mi nombre es Gary Jose Ebanks Elias.
 Estudio Ing. en sistemas de informacion en la Universidad Centroamericana.
 Tengo 18 años, ya casi 19.
+
+Me gusta programar porque me permite crear soluciones a problemas que antes no sabria como resolver ayudado de la computadora.
+Tras este tiempo practicando mis habilidades en programacion cada vez le encuentro mas el gusto a hacerlo debido a que me genera 
+un sube y baja de emociones, tambien es algo reconfortante cuando tu codigo funciona. Y a como dijo un idolo de la programacion que 
+yo no se encuentra con nosotros "Si puedes imaginarlo, puedes programarlo!".
